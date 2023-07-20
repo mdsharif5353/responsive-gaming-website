@@ -218,7 +218,7 @@ li {
     height: 250px;
     overflow: hidden;
     background: black;
-    border-radius: 8px;
+    border-radius: 15px;
 }
 
 .image-wrapper img {
@@ -229,6 +229,7 @@ li {
 
 .image-wrapper:hover img {
     opacity: 0.6;
+    border: 2px solid #FF42A5;
 }
 
 .video-icon {
